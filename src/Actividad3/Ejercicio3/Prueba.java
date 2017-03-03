@@ -9,7 +9,7 @@ public class Prueba {
         de.insertar(15);
         de.insertar(5);
 
-        de.borrar(5);
+        de.borrar(95);
 
         de.imprimirLista();
 

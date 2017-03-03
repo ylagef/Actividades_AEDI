@@ -33,11 +33,10 @@ public class OrdenadaEnlazadaCentinela {
             actual = actual.getSig();
         }
 
-        if (actual.getSig().getElemento() == elemento) {
+        if ( actual.getSig() != null && actual.getSig().getElemento() == elemento) {
             actual.setSig(actual.getSig().getSig());
+            numElem--;
         }
-
-        numElem--;
     }
 
     //Imprimir todos los elementos de la lista

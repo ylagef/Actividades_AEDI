@@ -1,6 +1,7 @@
+package Actividad7;
+
 import java.util.LinkedList;
 import java.util.List;
-
 /**
  * Created by Yeray on 24/04/2017.
  */

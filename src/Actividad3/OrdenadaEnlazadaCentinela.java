@@ -1,4 +1,4 @@
-package Actividad3.Ejercicio3;
+package Actividad3;
 
 //Estructura doblemente enlazada con constructor y operación borrar
 public class OrdenadaEnlazadaCentinela {

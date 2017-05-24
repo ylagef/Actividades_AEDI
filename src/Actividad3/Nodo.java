@@ -1,4 +1,4 @@
-package Actividad3.Ejercicio3;
+package Actividad3;
 
 public class Nodo {
     private int elemento;
@@ -13,13 +13,12 @@ public class Nodo {
         return elemento;
     }
 
-    public Nodo getSig() {
-        return siguiente;
-    }
-
-
     public void setElemento(int e) {
         elemento = e;
+    }
+
+    public Nodo getSig() {
+        return siguiente;
     }
 
     public void setSig(Nodo sig) {

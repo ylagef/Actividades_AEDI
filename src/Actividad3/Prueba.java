@@ -1,4 +1,4 @@
-package Actividad3.Ejercicio3;
+package Actividad3;
 
 public class Prueba {
 

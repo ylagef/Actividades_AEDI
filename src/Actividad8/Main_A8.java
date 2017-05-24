@@ -1,7 +1,7 @@
 /**
  * Created by Yeray on 04/05/2017.
  */
-public class Act8 {
+public class Main_A8 {
 
     public static void main(String[] args) {
         /*if (comprobarPalindromo("Dabale arroz a la zorra el abad")) {

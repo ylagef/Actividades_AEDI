@@ -1,7 +1,7 @@
 /**
  * Created by Yeray on 05/05/2017.
  */
-public class Act9 {
+public class Main_A9 {
 
     public static void main(String[] args) {
         int[] aux = new int[10];
